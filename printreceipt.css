@@ -3,4 +3,13 @@
     margin: 0;
     font-size: 12px;
     font-family: 'Hanuman', Arial;
+    color: #000!important;
+}
+body {
+    background-color: #fff!important;
+    background: #fff!important;
+}
+#invoiceContent {
+    padding: 5%;
+    width: 90%;
 }
